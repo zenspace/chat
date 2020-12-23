@@ -19,6 +19,9 @@ func main() {
 
 	receiveHandler(client)
 	sendHandler(client)
+	for {
+
+	}
 	//var input string
 	//fmt.Scanln(&input)
 }
